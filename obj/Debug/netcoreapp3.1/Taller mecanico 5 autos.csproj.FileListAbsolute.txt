@@ -1,0 +1,13 @@
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\bin\Debug\netcoreapp3.1\Taller mecanico 5 autos.exe
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\bin\Debug\netcoreapp3.1\Taller mecanico 5 autos.deps.json
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\bin\Debug\netcoreapp3.1\Taller mecanico 5 autos.runtimeconfig.json
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\bin\Debug\netcoreapp3.1\Taller mecanico 5 autos.runtimeconfig.dev.json
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\bin\Debug\netcoreapp3.1\Taller mecanico 5 autos.dll
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\bin\Debug\netcoreapp3.1\Taller mecanico 5 autos.pdb
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\obj\Debug\netcoreapp3.1\Taller mecanico 5 autos.csprojAssemblyReference.cache
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\obj\Debug\netcoreapp3.1\Taller mecanico 5 autos.AssemblyInfoInputs.cache
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\obj\Debug\netcoreapp3.1\Taller mecanico 5 autos.AssemblyInfo.cs
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\obj\Debug\netcoreapp3.1\Taller mecanico 5 autos.csproj.CoreCompileInputs.cache
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\obj\Debug\netcoreapp3.1\Taller mecanico 5 autos.dll
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\obj\Debug\netcoreapp3.1\Taller mecanico 5 autos.pdb
+C:\Users\balaz\source\repos\Taller mecanico 5 autos\Taller mecanico 5 autos\obj\Debug\netcoreapp3.1\Taller mecanico 5 autos.genruntimeconfig.cache
